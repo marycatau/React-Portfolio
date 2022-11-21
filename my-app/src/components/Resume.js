@@ -4,7 +4,7 @@ export default function Resume() {
   return (
     <section id="Resume" className="Contentbox">
     <h2>Resume </h2>
-    <p><a href="./assets/CatherineResume.pdf">Download my resume</a></p>
+    <p><a href= {process.env.PUBLIC_URL+`/assets/CatherineResume.pdf`}>Download my resume</a></p>
     
     <p>My proficiencies</p>
     <ul>
