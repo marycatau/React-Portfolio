@@ -7,7 +7,7 @@
 
 * Screenshot of deployed Application
 
-![ScreenShot of the deployed application](https://github.com/marycatau/PWA-Challenge/blob/main/Screenshot%20of%20the%20deployed%20Application.jpeg?raw=true)
+![ScreenShot of the deployed application](https://github.com/marycatau/React-Portfolio/blob/main/Screenshot%20of%20the%20deployed%20application.jpeg?raw=true)
 
 
 * Link to deployed application
