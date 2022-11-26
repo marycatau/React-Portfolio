@@ -1,7 +1,7 @@
 import Header from './components/Header';
 import './App.css';
 import Footer from './components/footer';
-import AboutMe from './components/AboutMe';
+import Home from './components/AboutMe';
 import Contact from './components/Contact';
 import Portfolio from './components/Portfolio';
 import Resume from './components/Resume';
@@ -18,7 +18,7 @@ function App() {
         <Header/>
         <div id="mainBG">
           <Routes>
-              <Route path="/" element={<AboutMe />} />
+              <Route exact path="/React-Portfolio" element={<Home />} />
               <Route path="portfolio" element={<Portfolio />} />
               <Route path="contact" element={<Contact />} />
               <Route path="resume" element={<Resume />} />

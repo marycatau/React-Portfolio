@@ -6,7 +6,7 @@ export default function Nav() {
 
   return (
       <nav className="nav link">
-        <NavLink to="/" style={({ isActive }) => ({ 
+        <NavLink to="/React-Portfolio" style={({ isActive }) => ({ 
                             color: isActive ? 'greenyellow' : 'white' })}>About Me</NavLink>
         <NavLink to="/portfolio" style={({ isActive }) => ({ 
                             color: isActive ? 'greenyellow' : 'white' })}>Portfolio</NavLink>
