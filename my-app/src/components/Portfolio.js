@@ -6,7 +6,7 @@ export default function Portfolio() {
   return (
     <section id="Work" className="Contentbox">
     <h2>Project</h2>
-    <Project title="Group Project3 Swap Shop" image="SwapShop.jpeg" link="https://github.com/mikehui1124/Swap-Shop/" link2="https://github.com/mikehui1124/Swap-Shop"/>
+    <Project title="Group Project3 Swap Shop" image="SwapShop.jpeg" link="https://young-earth-93319.herokuapp.com/" link2="https://github.com/mikehui1124/Swap-Shop"/>
     <Project title="Group Project1 Movie Madness" image="MovieMadness.jpeg" link="https://nenebeji.github.io/Movie-Madness/" link2="https://github.com/nenebeji/Movie-Madness"/>
     <Project title="Group Project2 Digital Exercise Book" image="exercisepage.png" link="https://immense-mountain-30351.herokuapp.com/profile-upload-single" link2="https://github.com/mikehui1124/digital_excercise_book"/>
     <Project title="PWA " image="PWA.jpeg" link="https://limitless-plateau-34360.herokuapp.com/" link2="https://github.com/marycatau/PWA-Challenge"/>
